@@ -1,4 +1,4 @@
-package com.zzz.moneyspentnotes.DBHelpers;
+package com.zzz.moneynotes.DBHelpers;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.zzz.moneyspentnotes.models.MoneyNotes;
+import com.zzz.moneynotes.models.MoneyNotes;
 
 import java.util.ArrayList;
 import java.util.List;

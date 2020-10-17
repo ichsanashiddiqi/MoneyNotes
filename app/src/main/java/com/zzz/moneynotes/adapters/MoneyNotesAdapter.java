@@ -1,4 +1,4 @@
-package com.zzz.moneyspentnotes.adapters;
+package com.zzz.moneynotes.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,9 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.zzz.moneyspentnotes.DetailMoneyNote;
-import com.zzz.moneyspentnotes.R;
-import com.zzz.moneyspentnotes.models.MoneyNotes;
+import com.zzz.moneynotes.DetailMoneyNote;
+import com.zzz.moneynotes.R;
+import com.zzz.moneynotes.models.MoneyNotes;
 
 import java.util.List;
 

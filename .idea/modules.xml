@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleMoneySpentNotesSQLite.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleMoneySpentNotesSQLite.iml" group="SimpleMoneySpentNotesSQLite" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="SimpleMoneySpentNotesSQLite/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MoneyNotes.iml" filepath="$PROJECT_DIR$/.idea/modules/MoneyNotes.iml" group="MoneyNotes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MoneyNotes/app" />
     </modules>
   </component>
 </project>

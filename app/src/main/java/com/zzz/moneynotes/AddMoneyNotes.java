@@ -1,4 +1,4 @@
-package com.zzz.moneyspentnotes;
+package com.zzz.moneynotes;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,7 +10,7 @@ import android.view.WindowManager;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.zzz.moneyspentnotes.DBHelpers.MoneyNotesDBHelper;
+import com.zzz.moneynotes.DBHelpers.MoneyNotesDBHelper;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

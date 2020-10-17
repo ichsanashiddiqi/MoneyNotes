@@ -1,4 +1,4 @@
-package com.zzz.moneyspentnotes;
+package com.zzz.moneynotes;
 
 import org.junit.Test;
 

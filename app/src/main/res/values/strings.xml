@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleMoneySpentNotes</string>
+    <string name="app_name">MoneyNotes</string>
     <string name="list_money_notes">List Money Notes</string>
     <string name="add_money_note">Add Money Note</string>
     <string name="masukkan_jumlah_pengeluaran">Masukkan Jumlah Pengeluaran</string>

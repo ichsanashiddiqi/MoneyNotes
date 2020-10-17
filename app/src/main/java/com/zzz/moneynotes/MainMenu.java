@@ -1,4 +1,4 @@
-package com.zzz.moneyspentnotes;
+package com.zzz.moneynotes;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,8 +9,8 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-import com.zzz.moneyspentnotes.DBHelpers.MoneyNotesDBHelper;
-import com.zzz.moneyspentnotes.models.MoneyNotes;
+import com.zzz.moneynotes.DBHelpers.MoneyNotesDBHelper;
+import com.zzz.moneynotes.models.MoneyNotes;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

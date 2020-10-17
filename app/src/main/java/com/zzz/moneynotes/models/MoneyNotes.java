@@ -1,4 +1,4 @@
-package com.zzz.moneyspentnotes.models;
+package com.zzz.moneynotes.models;
 
 public class MoneyNotes {
     public static final String TABLE_NAME = "moneyNotes";

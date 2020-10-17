@@ -1,4 +1,4 @@
-package com.zzz.moneyspentnotes;
+package com.zzz.moneynotes;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -10,9 +10,9 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.zzz.moneyspentnotes.DBHelpers.MoneyNotesDBHelper;
-import com.zzz.moneyspentnotes.adapters.MoneyNotesAdapter;
-import com.zzz.moneyspentnotes.models.MoneyNotes;
+import com.zzz.moneynotes.DBHelpers.MoneyNotesDBHelper;
+import com.zzz.moneynotes.adapters.MoneyNotesAdapter;
+import com.zzz.moneynotes.models.MoneyNotes;
 
 import java.util.ArrayList;
 import java.util.List;
