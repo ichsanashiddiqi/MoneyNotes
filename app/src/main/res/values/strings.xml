@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleMoneySpentNotes</string>
+    <string name="list_money_notes">List Money Notes</string>
+    <string name="add_money_note">Add Money Note</string>
+    <string name="masukkan_jumlah_pengeluaran">Masukkan Jumlah Pengeluaran</string>
+    <string name="save">Save</string>
+    <string name="masukkan_nama_pengeluaran">Masukkan Nama Pengeluaran</string>
+    <string name="nama_pengeluaran_detail">Nama Pengeluaran: </string>
+    <string name="jumlah_pengeluaran">Jumlah Pengeluaran</string>
+    <string name="back_to_main_menu">Back To Main Menu</string>
+    <string name="beli_shampoo">Beli Shampoo</string>
+    <string name="jumlah_pengeluaran_detail">Jumlah Pengeluaran:</string>
+    <string name="jmlh_Pengeluaran_value">10000</string>
+    <string name="tgl_Pengeluaran_value">13-Agustus-2020</string>
+    <string name="tgl_pengeluaran_detail">Dicatat Pada Tanggal:</string>
+    <string name="back_to_list">Back To List</string>
+    <string name="judul_splash">Record Your Expenses Now</string>
+    <string name="subJudulSplash">Record your expenses to make it easier to check your financial management</string>
+    <string name="total_Pengeluaran_HariIni">30000</string>
+</resources>
